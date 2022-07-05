@@ -1,0 +1,42 @@
+body{
+    font-family: 'Mingzat', sans-serif;
+font-family: 'Splash', cursive;
+font-family: 'The Nautigal', cursive;
+font-family: 'Trispace', sans-serif;
+}
+h1{
+    font-size: 50px;
+    color: aqua;
+}
+
+.orange{
+    color:red;
+    }
+    h3{
+        font-size: 40px;
+        
+        color: blueviolet;
+    }
+    section{
+        display: flex;
+    }
+    .half-width{
+        width: 50%;
+    }
+    .half-width img{
+        width: 80%;
+        padding-right: 5px;
+        margin-left: 5%;
+    }
+    .link-button{
+        text-decoration: none;
+        background-image: linear-gradient(orange, red);
+        width: 700;
+        color: white;
+        padding: 10px 40px;
+        border-radius: 10px;
+        
+    }
+
+        
+    
